@@ -1,0 +1,6 @@
+*.txt
+*.log
+/logs/
+/results/
+/gothic_novels/
+.ipynb_checkpoints
