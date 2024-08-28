@@ -1,6 +1,10 @@
 *.txt
 *.log
+*.Identifier
 /logs/
 /results/
+/data/
+/__MACOSX/
+/__pycache__/
 /gothic_novels/
 .ipynb_checkpoints
