@@ -1,6 +1,7 @@
 *.txt
 *.log
 *.Identifier
+*.swp
 /logs/
 /results/
 /data/
